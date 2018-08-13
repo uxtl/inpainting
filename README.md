@@ -8,7 +8,7 @@ Now training with Places2 dataset, I will provide the code if the result is good
 Add perceptual loss after stage 1 and stage 2 for higher quatlity.
 
 ## Some results
-![image](https://github.com/uxtl/inpainting/tree/master/results/1.png)
-![image](https://github.com/uxtl/inpainting/tree/master/results/2.png)
-![image](https://github.com/uxtl/inpainting/tree/master/results/3.png)
-![image](https://github.com/uxtl/inpainting/tree/master/results/4.png)
+![image](https://github.com/uxtl/inpainting/blob/master/results/1.png)
+![image](https://github.com/uxtl/inpainting/blob/master/results/2.png)
+![image](https://github.com/uxtl/inpainting/blob/master/results/3.png)
+![image](https://github.com/uxtl/inpainting/blob/master/results/4.png)
